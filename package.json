@@ -1,0 +1,25 @@
+{
+  "name": "sample-devops",
+  "version": "1.0.0",
+  "description": "DevOps CI/CD pipeline for Node.js and Docker",
+  "author": "Neko Prog <nekoprog@gmail.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "devops",
+    "ci/cd",
+    "node.js",
+    "docker"
+  ],
+  "scripts": {
+    "test": "echo \"No test specified. Skipping...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekoprog/sample-devops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nekoprog/sample-devops/issues"
+  },
+  "homepage": "https://github.com/nekoprog/sample-devops#readme"
+}
